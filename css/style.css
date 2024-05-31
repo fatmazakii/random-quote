@@ -1,0 +1,32 @@
+h1 {
+    font-size: 80px;
+    font-family: Impact;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.container {
+    text-align: center;
+}
+
+p {
+    font-size: 35px;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+#btn {
+    width: 250px;
+    height: 80px;
+    color: white;
+    border: 2px solid black;
+}
+
+#btn:hover{
+    background-color: green; 
+}
+
+#quoteDisplay {
+    margin-top: 20px;
+}
